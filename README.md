@@ -6,7 +6,7 @@ This repository accompanies the paper:
 **S.I. Ahsan, D. Djenouri, R. Haider**  
 *"Privacy-Enhanced Sentiment Analysis in Mental Health: Federated Learning with Data Obfuscation and Bidirectional Encoder Representations from Transformers"*  
 **Electronics 2024, 13, 4650**  
-[🔗 Paper Link (Electronics MDPI)](https://doi.org/10.3390/electronics13234650)
+🔗 [Paper Link (Electronics MDPI)](https://doi.org/10.3390/electronics13234650)
 
 ## Overview
 
@@ -53,7 +53,7 @@ This system, **FL-BERT+DO**, effectively balances user privacy and model perform
 ## Dataset
 
 - **Emotions in Text Dataset**  
-  - [🔗 Kaggle Link](https://www.kaggle.com/datasets/ishantjuyal/emotions-in-text)
+  - 🔗 [Kaggle Link](https://www.kaggle.com/datasets/ishantjuyal/emotions-in-text)
   - Supplemented with a **synthetic obfuscated dataset** (rule-based generation) for privacy.
 
 ## Getting Started
